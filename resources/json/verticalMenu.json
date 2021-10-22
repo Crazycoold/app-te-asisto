@@ -1,0 +1,12 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Enfermeros",
+      "i18n": "Enfermeros",
+      "class": "waves-effect waves-cyan",
+      "icon": "local_hospital",
+      "slug": "support"
+    }
+  ]
+}
